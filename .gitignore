@@ -1,0 +1,46 @@
+# Maven
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Eclipse
+
+.project
+.classpath
+.settings/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Playwright artifacts
+
+playwright-report/
+test-results/
+traces/
+videos/
+screenshots/
+
+# Reports
+
+extent-report.html
+target/cucumber-reports/
+extent-reports*/
+
+# Environment variables
+
+.env
+
+# Temporary files
+
+*.tmp
+*.swp
+.metadata

@@ -1,0 +1,17 @@
+[
+ {
+   "from": "GBP",
+   "to": "INR",
+   "amount": 50.00
+ },
+ {
+  "from": "USD",
+  "to": "EUR",
+  "amount": 100.00
+ },
+ {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": 200.00
+ }
+] 
