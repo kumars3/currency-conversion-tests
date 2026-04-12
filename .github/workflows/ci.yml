@@ -14,7 +14,7 @@ jobs:
     env:
       XE_APP_URL: ${{ secrets.XE_APP_URL }}
       XE_API_KEY: ${{ secrets.XE_API_KEY }}
-      XE_API_SECRET: ${{ secrets.XE_API_SECRET }}
+      XE_API_ID: ${{ secrets.XE_API_ID }}
 
     steps:
       - name: Checkout code
