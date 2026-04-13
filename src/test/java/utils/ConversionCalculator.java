@@ -1,4 +1,4 @@
-package utils;
+//package utils;
 
 /**
  * Utility class for performing currency conversion calculations.
@@ -10,7 +10,7 @@ package utils;
  * Note:
  * Used to compute expected values for comparison with UI/API results.
  */
-
+/*
 public class ConversionCalculator {
 
     private ConversionCalculator() {
@@ -21,3 +21,4 @@ public class ConversionCalculator {
         return Math.round(value * factor) / factor;
     }
 }
+*/
