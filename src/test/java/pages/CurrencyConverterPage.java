@@ -39,8 +39,7 @@ public class CurrencyConverterPage {
     }
 
     public void navigateTo(String url) {
-    	page.navigate(url, new Page.NavigateOptions().setWaitUntil(WaitUntilState.DOMCONTENTLOADED));
-        page.waitForLoadState(LoadState.NETWORKIDLE);
+    	page.navigate(url);
     }
 
     public void waitForConverterToBeReady() {

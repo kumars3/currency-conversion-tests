@@ -19,7 +19,7 @@ public class MockXeRateService implements ExchangeRateService {
 
     static {
         MOCK_RATES.put("USD_EUR", 0.85298);
-        MOCK_RATES.put("GBP_INR", 125.16735);
+        MOCK_RATES.put("GBP_INR", 127.16735);
         MOCK_RATES.put("EUR_JPY", 186.72650);
     }
 
